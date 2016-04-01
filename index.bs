@@ -1,0 +1,90 @@
+<pre class='metadata'>
+Title: Distributed Web Entertainment and Enchantment Broadcast Explainer
+Status: UD
+ED: https://jonathankingston.github.io/dweeb-spec/index.html
+Shortname: dweeb
+Level: 1
+Editor: Jonathan Kingston, Mozilla, jkingston@mozilla.com
+Abstract: Standardising the interactions of humans over web broadcasting channels.
+Group: Pies
+</pre>
+
+<h2 id="introduction">Introduction</h2>
+<p>
+  For too long now humans have behaved irrationally online using web video and other broadcasting techniques, this explainer document sets out standardised ways in which humans should interact with VOIP and other telephony.
+</p>
+
+<h2 id="position-of-camera">Position of camera</h2>
+<p>
+  Users SHOULD be only permitted to place their camera such that contiguous video streams are permissible for extended elapsed time.
+  EG strapping the camera to a cat wouldn't be a good camera placement.
+</p>
+<p>
+  Cameras SHOULD be positioned far away from the face to reduce the visual feedback of skin pores.
+</p>
+<p>
+  Users SHOULD use an extended arms distance to position the camera at an approximate distance.
+</p>
+<p>
+  Users MAY wish to consider covering their camera with stickers when not in use, users MUST remove these when calls are in progress.
+</p>
+
+<p>
+  Face muting SHOULD NOT be considered unless there are connection issues impacting audio quality. For remote users it increases engagement with other user.
+</p>
+
+<h2 id="audio-equipment">Audio equipment</h2>
+<p>
+  Users SHOULD use a good headset with an attached microphone, not only because that makes you look like someone from CSI:CYBER but because the audio quality will be much better than a built in microphone.
+</p>
+
+<p>
+  Users MUST consider the placement of a microphone in an environment where the keyboard is positioned.
+</p>
+<p>
+  Users MUST ensure audio equipment is muted when more than one other user is on the broadcast channel after joining and any time you are not actively talking. Device muting is usually preferred over other methods, prefer mute buttons that have obvious visual indicators. Get into the habit of checking before and after speaking.
+</p>
+
+<p>
+  Learn how to use your software. Consider making a test call to your provider's echo service first to make sure everything is working fine. Watch out for your microphone being muted in your OS settings.
+</p>
+
+<p>
+  Get a decent headset. If you are planning to participate using VOIP, never do so just using the microphone and speakers built into your laptop. You'll get poor sound quality, and everyone apart from you will get lots of echo too. (This is particularly bad, as you don't notice the problem, but everyone else does.) Get a decent headset. Mozilla IT recommends the Plantronics .Audio 646 DSP USB headset they work on Windows, Mac and Linux.
+</p>
+<p>
+  Get a stable internet connection. Airport and hotel WiFi are often not good. 
+</p>
+
+
+<h2 id="environment-configuration">Environment configuration</h2>
+<p>
+  Users SHOULD ensure their surrounding environment is clean of any visual clutter.
+</p>
+<p>
+  The environment users are placed in should have good environments that are pleasing for other users to look at, users SHOULD consider using plush fox toys and other Mozilla related propaganda in the background of their surroundings. This is such that other users are aware you are not a robot as they have not advanced enough to change their environment in such manner.
+</p>
+
+<p>
+  <img src="environment.jpg" />
+</p>
+
+<p>
+  Users MUST consider lighting as an environment setup, if the camera is positioned facing a light source then the picture other users will see is of the prince of darkness.
+</p>
+
+<p>
+  Illustration of how users should position desk lighting:
+  <img src="lighting.jpg" />
+</p>
+
+<h2 id="vocal-expression">Vocal expression</h2>
+<p>
+  When addressing a large set of users, don't be afraid to speak as if you were in the room. Users that are collated into one room should yield for the external user and be polite recognising time lag is an issue sometimes.
+</p>
+<p>
+  Users MUST assume good intent when interacting with other users online.
+</p>
+<p>
+  Be as clear as possible, audio equipment isn't always the most forgiving for people who tend to mumble.
+</p>
